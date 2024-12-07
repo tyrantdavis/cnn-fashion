@@ -36,7 +36,7 @@ Several questions will be asked:
 
 - What happens to the layer sizes as the model approaches the final outputlayer?
 - How accurate is the model's performance?
-- What is the moel's loss?
+- What is the model's loss?
 - What insights can you share regarding the inaccurate predictions? Considering human perspective, is it reasonable that images could be categorized incorrectly as they have been?
 
 - What strategies could be employ to retrain this CNN model and enhance its performance?
@@ -61,7 +61,7 @@ A dataset that can be used to train the machine-learning model has been found. T
     - The size of each layer appears to diminish as the final output layer(dense network) is approached.  
 - How accurate is the model's performance?
     - 89% 
-- What is the moel's loss?
+- What is the model's loss?
     - .032
 
 - What insights can you share regarding the inaccurate predictions? Considering human perspective, is it reasonable that images could be categorized incorrectly as they have been?
