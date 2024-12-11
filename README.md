@@ -1,5 +1,7 @@
 # Fashion - Neural Network
 
+## [Demo](https://nbviewer.org/github/tyrantdavis/cnn-fashion/blob/main/cnn.ipynb)
+
 ## Scenario
 You are part of a team at an online clothing retailer that aims to create an automated system for categorizing new clothing items as they are introduced to the inventory. The product management team should simply upload an image of a new clothing piece, and the system will generate a suitable category for that item, which can then be linked to its database entry. This categorization will enhance the shopping experience by making it easier for customers to locate the items they desire in the online store.
 
